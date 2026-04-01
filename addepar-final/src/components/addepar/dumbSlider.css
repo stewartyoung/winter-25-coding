@@ -1,0 +1,18 @@
+.dumb-slider {
+    position: relative;
+    width: 300px;
+    height: 6px;
+    background: red;
+}
+
+.dumb-slider__track {
+    position: absolute;
+}
+
+.dumb-slider__range {
+    position: absolute;
+}
+
+.thumb {
+    pointer-events: none;
+}

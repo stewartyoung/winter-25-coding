@@ -1,0 +1,11 @@
+#root {
+  max-width: none;
+  margin: 0;
+  padding-top: 1rem; /* Space for fixed navbar */
+  text-align: left;
+  width: 100%;
+}
+
+.card {
+  padding: 2em;
+}
